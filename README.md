@@ -12,5 +12,5 @@ A responsive, accessible profile card built using semantic HTML, CSS, and vanill
 - All required data-testid attributes
 
   ## How to run locally
-  1. clone the repository
+  <ol><LI>Clone the repository</LI></ol>
 
