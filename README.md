@@ -1,6 +1,7 @@
 # HNG 13 Stage 0 Task — Profile Card
 
-#Description
+# Description
+
 A responsive, accessible profile card built using semantic HTML, CSS, and vanilla JavaScript.
 
 Features
