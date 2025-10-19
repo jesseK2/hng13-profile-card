@@ -13,5 +13,4 @@ A responsive, accessible profile card built using semantic HTML, CSS, and vanill
 
   ## How to run locally
   1. Clone the repository
-
-git clone https://github.com/jesseK2/hng13-profile-card.git
+     git clone https://github.com/jesseK2/hng13-profile-card.git
