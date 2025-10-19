@@ -12,5 +12,6 @@ A responsive, accessible profile card built using semantic HTML, CSS, and vanill
 - All required data-testid attributes
 
   ## How to run locally
-  <ol><LI>Clone the repository</LI></ol>
-
+  1. Clone the repository
+'''bash
+git clone https://github.com/jesseK2/hng13-profile-card.git
