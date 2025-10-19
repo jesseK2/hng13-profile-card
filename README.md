@@ -4,7 +4,7 @@
 
 A responsive, accessible profile card built using semantic HTML, CSS, and vanilla JavaScript.
 
-Features
+# Features
 Semantic HTML structure
 Responsive dark-themed design
 Dynamic current time (milliseconds)
