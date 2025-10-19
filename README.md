@@ -10,3 +10,7 @@ A responsive, accessible profile card built using semantic HTML, CSS, and vanill
 - Dynamic current time (milliseconds)
 - Keyboard-accessible links
 - All required data-testid attributes
+
+  ## How to run locally
+  1. clone the repository
+
